@@ -15,49 +15,82 @@ class Resume extends React.Component{
               <ul className="timeline">
                 <li>
                   <div className="timeline-image">
-                    <h4>Feb 2013 <br/>
+                    <h4>2013 <br/>
                       - <br/>
                       Present </h4>
                   </div>
                   <div className="timeline-panel">
                     <div className="timeline-heading">
-                      <h4>Creative Agency</h4>
-                      <h4 className="subheading">UX Developer</h4>
+                      <h4>Domibus Real Estate Development</h4>
+                      <h4 className="subheading">Owner/Partner and developer</h4>
                     </div>
                     <div className="timeline-body">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                      <p>We acquired or contracted housing/aparments/buildings, and developed them in various manners.</p>
                     </div>
                   </div>
                 </li>
                 <li className="timeline-inverted">
                   <div className="timeline-image">
-                    <h4>Nov 2011 <br/>
+                    <h4>2012 <br/>
                       - <br/>
-                      Jan 2013 </h4>
+                      2014 </h4>
                   </div>
                   <div className="timeline-panel">
                     <div className="timeline-heading">
-                      <h4>Creative Agency</h4>
-                      <h4 className="subheading">Front-end Developer</h4>
+                      <h4>Figmentum INC</h4>
+                      <h4 className="subheading">Owner/Partner and Film development technician</h4>
                     </div>
                     <div className="timeline-body">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                      <p>Mostly hobbyist store for developing and reparing of classic 35mm, and 120mm photography equipments.</p>
                     </div>
                   </div>
                 </li>
                 <li>
                   <div className="timeline-image">
-                    <h4>Dec 2009 <br/>
+                    <h4>2012 <br/>
                       - <br/>
-                      May 2011 </h4>
+                      2013 </h4>
                   </div>
                   <div className="timeline-panel">
                     <div className="timeline-heading">
-                      <h4>Creative Agency</h4>
-                      <h4 className="subheading">UX Designer</h4>
+                      <h4>CCNY</h4>
+                      <h4 className="subheading">Physics and Math Tutor</h4>
                     </div>
                     <div className="timeline-body">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                      <p>Helped freshman to juniors with their math, physics, and engineering mechanics courses.</p>
+                    </div>
+                  </div>
+                </li>
+                <li className="timeline-inverted">
+                  <div className="timeline-image">
+                    <h4>2010 <br/>
+                      - <br/>
+                      2012 </h4>
+                  </div>
+                  <div className="timeline-panel">
+                    <div className="timeline-heading">
+                      <h4>BMCC</h4>
+                      <h4 className="subheading">Math, Physics, and Thermodynamics Tutor</h4>
+                    </div>
+                    <div className="timeline-body">
+                      <p>Helped freshman and sophomore Engineering Science students with Math, physics, and Thermodynamics courses.</p>
+                    </div>
+                  </div>
+                </li>
+                
+                <li>
+                  <div className="timeline-image">
+                    <h4>2008 <br/>
+                      - <br/>
+                      2010 </h4>
+                  </div>
+                  <div className="timeline-panel">
+                    <div className="timeline-heading">
+                      <h4>JP Morgan Chase</h4>
+                      <h4 className="subheading">Teller</h4>
+                    </div>
+                    <div className="timeline-body">
+                      <p>Helped customers with their daily financial transctions.</p>
                     </div>
                   </div>
                 </li>

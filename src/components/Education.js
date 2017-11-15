@@ -13,49 +13,50 @@ class Education extends React.Component{
             <ul className="timeline">
               <li>
                 <div className="timeline-image">
-                  <h4>2010 <br/>
+                  <h4>June 2017 <br/>
                     - <br/>
-                    2011 </h4>
+                    October 2017 </h4>
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>Design University</h4>
-                    <h4 className="subheading">Master Degree of Design</h4>
+                    <h4>Flatiron School</h4>
+                    <h4 className="subheading">Full Stack Web Development Bootcamp</h4>
                   </div>
                   <div className="timeline-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                    <p>Four-month bootcamp where I learned Ruby, Ruby on Rails, JavaScript, ReactJS, Redux,
+                    and various other programming paradigms.</p>
                   </div>
                 </div>
               </li>
               <li className="timeline-inverted">
                 <div className="timeline-image">
-                  <h4>2007 <br/>
+                  <h4>2011 <br/>
                     - <br/>
-                    2010 </h4>
+                    2013 </h4>
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>Design University</h4>
-                    <h4 className="subheading">Bachelor Degree of Design</h4>
+                    <h4>CCNY</h4>
+                    <h4 className="subheading">Bachelor Degree in Science</h4>
                   </div>
                   <div className="timeline-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                    <p>Mechanical Engineering with a minor in Physics</p>
                   </div>
                 </div>
               </li>
               <li>
                 <div className="timeline-image">
-                  <h4>2004 <br/>
+                  <h4>2008 <br/>
                     - <br/>
-                    2007 </h4>
+                    2010 </h4>
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>School Name</h4>
-                    <h4 className="subheading">High School Degree</h4>
+                    <h4>BMCC</h4>
+                    <h4 className="subheading">Associate Degree in Science</h4>
                   </div>
                   <div className="timeline-body">
-                    <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                    <p className="text-muted">Engineering Science with a minor in Computer Science</p>
                   </div>
                 </div>
               </li>

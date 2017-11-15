@@ -11,14 +11,14 @@ class Contact extends React.Component{
           </div>
           <div className="col-md-8 col-md-offset-2">
             <div className="col-md-4"> <i className="fa fa-map-marker fa-2x"></i>
-              <p>4321 California St,<br/>
-                San Francisco, CA 12345</p>
+              <p>New York, NY<br/>
+                </p>
             </div>
             <div className="col-md-4"> <i className="fa fa-envelope-o fa-2x"></i>
-              <p>info@company.com</p>
+              <p>dean.b87@icloud.com</p>
             </div>
             <div className="col-md-4"> <i className="fa fa-phone fa-2x"></i>
-              <p> +1 123 456 1234</p>
+              <p> (646)-309-9010</p>
             </div>
             <div className="clearfix"></div>
           </div>
@@ -48,12 +48,13 @@ class Contact extends React.Component{
             </form>
             <div className="social">
               <ul>
-                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
+                {/* <li><a href="#"><i className="fa fa-facebook"></i></a></li> */}
                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                <li><a href="#"><i className="fa fa-github"></i></a></li>
-                <li><a href="#"><i className="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
+                <li><a href="mailto:dean.b87@icloud.com?Subject=Hello" target="_top">
+                  <i className="fa fa-envelope"></i></a></li>
+                <li><a href="https://github.com/deanban" target="_blank"><i className="fa fa-github"></i></a></li>
+                {/* <li><a href="#"><i className="fa fa-instagram"></i></a></li> */}
+                <li><a href="https://linkedin.com/in/p-d-banik" target="_blank"><i className="fa fa-linkedin"></i></a></li>
               </ul>
             </div>
           </div>
