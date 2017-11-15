@@ -11,12 +11,12 @@ class Achievements extends React.Component{
           </div>
 
 
-            <div className="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
+            <div className="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="100pxms">
               <div className="achievement-box"> <span className="count">1</span>
                 <h4>Awards Won</h4>
               </div>
             </div>
-            <div className="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="700ms">
+            <div className="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
               <div className="achievement-box"> <span className="count">2</span>
                 <h4>Years of Experience</h4>
               </div>

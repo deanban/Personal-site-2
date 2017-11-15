@@ -7,7 +7,7 @@ class Resume extends React.Component{
       <div id="resume" className="text-center">
         <div className="container">
           <div className="section-title center">
-            <h2>Experience</h2>
+            <h2>Work</h2>
             <hr/>
           </div>
           <div className="row">
@@ -77,7 +77,7 @@ class Resume extends React.Component{
                     </div>
                   </div>
                 </li>
-                
+
                 <li>
                   <div className="timeline-image">
                     <h4>2008 <br/>
