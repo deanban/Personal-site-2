@@ -62,11 +62,19 @@ class Portfolio extends React.Component{
               </div>
               <div className="col-sm-6 col-md-3 col-lg-3 app">
                 <div className="portfolio-item">
-                  <div className="hover-bg"> <a href="img/portfolio/05-large.jpg" title="Project description" rel="prettyPhoto">
-                    <div className="hover-text">
-                      <h4>Flatiron Student reviewer</h4>
-                      <small>Ruby on Rails MVC</small> </div>
-                    <img src="img/portfolio/05-small.jpg" className="img-responsive" alt="Project Title"/> </a> </div>
+                  <div className="hover-bg">
+                    <a href="img/test.mp4">
+                      <div className="hover-text">
+                        <h4>Flatiron Student reviewer</h4>
+                        <small>Ruby on Rails MVC</small> </div>
+                        {/* <img src="img/portfolio/05-small.jpg" className="img-responsive" alt="Project Title"/>  */}
+                        <video controls autoplay>
+                            <source src="img/test.mp4" type="video/mp4"/>
+
+
+                          </video>
+                    </a>
+                  </div>
                 </div>
               </div>
               {/* <div className="col-sm-6 col-md-3 col-lg-3 branding">
